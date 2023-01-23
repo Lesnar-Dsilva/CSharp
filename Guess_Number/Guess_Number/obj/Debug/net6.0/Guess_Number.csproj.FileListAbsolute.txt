@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\bin\Debug\net6.0\Guess_Number.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\bin\Debug\net6.0\Guess_Number.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\bin\Debug\net6.0\Guess_Number.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\bin\Debug\net6.0\Guess_Number.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\bin\Debug\net6.0\Guess_Number.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\refint\Guess_Number.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\Guess_Number.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Guess_Number\Guess_Number\obj\Debug\net6.0\ref\Guess_Number.dll

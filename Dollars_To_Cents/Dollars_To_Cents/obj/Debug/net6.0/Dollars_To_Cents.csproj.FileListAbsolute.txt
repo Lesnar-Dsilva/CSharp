@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\bin\Debug\net6.0\Dollars_To_Cents.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\bin\Debug\net6.0\Dollars_To_Cents.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\bin\Debug\net6.0\Dollars_To_Cents.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\bin\Debug\net6.0\Dollars_To_Cents.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\bin\Debug\net6.0\Dollars_To_Cents.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\refint\Dollars_To_Cents.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\Dollars_To_Cents.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Dollars_To_Cents\Dollars_To_Cents\obj\Debug\net6.0\ref\Dollars_To_Cents.dll

@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\refint\MyFirstProgram.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\MyFirstProgram\MyFirstProgram\obj\Debug\net6.0\ref\MyFirstProgram.dll

@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\refint\BinaryToDecimal.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\ref\BinaryToDecimal.dll

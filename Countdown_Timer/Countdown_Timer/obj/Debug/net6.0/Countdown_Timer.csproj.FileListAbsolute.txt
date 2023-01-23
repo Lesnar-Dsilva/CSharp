@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\bin\Debug\net6.0\Countdown_Timer.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\bin\Debug\net6.0\Countdown_Timer.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\bin\Debug\net6.0\Countdown_Timer.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\bin\Debug\net6.0\Countdown_Timer.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\bin\Debug\net6.0\Countdown_Timer.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\refint\Countdown_Timer.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\Countdown_Timer.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Countdown_Timer\Countdown_Timer\obj\Debug\net6.0\ref\Countdown_Timer.dll

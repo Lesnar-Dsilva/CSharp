@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\bin\Debug\net6.0\Die.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\bin\Debug\net6.0\Die.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\bin\Debug\net6.0\Die.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\bin\Debug\net6.0\Die.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\bin\Debug\net6.0\Die.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\refint\Die.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\Die.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Die\Die\obj\Debug\net6.0\ref\Die.dll

@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\bin\Debug\net6.0\Compound_Interest-Calculator.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\bin\Debug\net6.0\Compound_Interest-Calculator.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\bin\Debug\net6.0\Compound_Interest-Calculator.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\bin\Debug\net6.0\Compound_Interest-Calculator.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\bin\Debug\net6.0\Compound_Interest-Calculator.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\refint\Compound_Interest-Calculator.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\Compound_Interest-Calculator.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Compound_Interest-Calculator\Compound_Interest-Calculator\obj\Debug\net6.0\ref\Compound_Interest-Calculator.dll

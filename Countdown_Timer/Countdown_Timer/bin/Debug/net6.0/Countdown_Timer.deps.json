@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Countdown_Timer/1.0.0": {
+        "runtime": {
+          "Countdown_Timer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Countdown_Timer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

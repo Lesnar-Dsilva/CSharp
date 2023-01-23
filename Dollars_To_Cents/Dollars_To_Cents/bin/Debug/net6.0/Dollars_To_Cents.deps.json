@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dollars_To_Cents/1.0.0": {
+        "runtime": {
+          "Dollars_To_Cents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dollars_To_Cents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

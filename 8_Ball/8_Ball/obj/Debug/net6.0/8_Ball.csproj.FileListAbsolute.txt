@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\bin\Debug\net6.0\8_Ball.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\bin\Debug\net6.0\8_Ball.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\bin\Debug\net6.0\8_Ball.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\bin\Debug\net6.0\8_Ball.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\bin\Debug\net6.0\8_Ball.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\refint\8_Ball.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\8_Ball.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\8_Ball\8_Ball\obj\Debug\net6.0\ref\8_Ball.dll

@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\bin\Debug\net6.0\Google_Case.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\bin\Debug\net6.0\Google_Case.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\bin\Debug\net6.0\Google_Case.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\bin\Debug\net6.0\Google_Case.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\bin\Debug\net6.0\Google_Case.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\refint\Google_Case.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\Google_Case.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Google_Case\Google_Case\obj\Debug\net6.0\ref\Google_Case.dll

@@ -1,0 +1,15 @@
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\bin\Debug\net6.0\Green Eggs and Ham.exe
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\bin\Debug\net6.0\Green Eggs and Ham.deps.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\bin\Debug\net6.0\Green Eggs and Ham.runtimeconfig.json
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\bin\Debug\net6.0\Green Eggs and Ham.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\bin\Debug\net6.0\Green Eggs and Ham.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.csproj.AssemblyReference.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.AssemblyInfoInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.AssemblyInfo.cs
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.csproj.CoreCompileInputs.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\refint\Green Eggs and Ham.dll
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.pdb
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\Green Eggs and Ham.genruntimeconfig.cache
+C:\Users\Lesna\OneDrive\Website Portfolio\C#\Green Eggs and Ham\Green Eggs and Ham\obj\Debug\net6.0\ref\Green Eggs and Ham.dll
